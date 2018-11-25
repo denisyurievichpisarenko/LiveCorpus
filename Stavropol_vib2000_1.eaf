@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-11-25T19:35:08+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Денис/Downloads/Stavropol_vib2000_1.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../Downloads/Stavropol_vib2000_1.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:0638c817-f1fa-4b1e-b19c-f10ea49446dc</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">61</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="118972"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="118980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="119900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="121455"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="122315"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="122400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="123180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="123205"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="123610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="123610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="124860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="125390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="125750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="126805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="127345"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="128510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="129550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="130385"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="131585"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="132322"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="132360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="134020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="135700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="136405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="137545"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="137585"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="138065"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="138080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="139360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="139375"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="140535"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="141470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="142060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="142130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="143000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="143570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="144340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="144490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="145690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="146400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="147000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="147060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="147240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="147435"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="148635"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="152050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="152060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="153270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="153620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="153790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="154520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="155535"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="156555"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="157670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="159120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="160410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="161490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="161510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="161540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="163155"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="164735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="174775"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="175725"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="175735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="176700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="176995"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="177000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="179000"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER ANNOTATOR="dyp@" LINGUISTIC_TYPE_REF="text" PARTICIPANT="vib@" TIER_ID="vib-Speech">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>на са'мом де'ле                я сам' там     эээ    никогда' не жил', то есть                       я то'лько роди'лся там                     и всё'                            вот' , и пото'м впосле'дствии лишь'  ааа   одна'жды приезжа'л туда' на моги'лки к  ро'дственникам
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>                                        вот                     ааа                                                          в основно'м я жил' в                    посё'лке Инозе'мцево, он нахо'дится недалеко' от го'рода     Пятиго'рска, одного' из пяти'             городо'в-куро'ртов Кавка'зских минера'льных вод'
+  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>   э'то потряса'ющее ме'сто, я с удово'льствием возвраща'юсь туда    ка'ждое ле'то 
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>             вот  ну                иии ещё' одно' ме'сто, кото'рое               для меня' име'ет како'е-то значе'ние в Ставропо'льском кра'е             э'то           эээ      село' мое'й ба'бушки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE> оно' нахо'дится недалеко' от региона'льного це'нтра, от Ста'врополя    вот, туда' я то'же…   там быва'ю             ммм                            практи'чески ка'ждое ле'то              и с ним         ммм /безусло'вно свя'зано о'чень мно'го тё'плых де'тских воспомина'ний
+
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="dyp@" LINGUISTIC_TYPE_REF="text" PARTICIPANT="dyp@" TIER_ID="dyp-Speech">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>           вот вс... в связи</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE> с э'тим тако'й вопро'с интере'сный</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="dyp@" LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="vib@" TIER_ID="vib-Gestures">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>разгиб. левой ладони</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>развод ладоней</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>сжатие левой ладони</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>разжатие левой ладони</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>синхронное передвижение ладоней</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>развод ладоней</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>повторный развод ладоней</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>складывание ладоней</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>отставление левой руки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>левая рука вверх-влево</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>левая рука вниз</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>левая рука вверх</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>левая рука вверх-вниз-вверх</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>развод ладоней</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>переворачивание левой ладони тыльной стороной вверх</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>прокручивание рук + расставление ладоней</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>направление рук на собеседника</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>развод ладоней</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>опускание ладоней</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>отведение левой ладони влево</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>поднятие указательного пальца левой руки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>отведение указательного пальца влево</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>отведение левой ладони влево-вверх</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>постановка левой ладони горизонтально прямо</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>собирание ладони в кулак</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>отвод левой руки влево</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>придвижение руки к себе</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="dyp@" LINGUISTIC_TYPE_REF="gesture-meaning" PARENT_REF="vib-Gestures" PARTICIPANT="vib@" TIER_ID="vib-GestureMeaning">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>вспоминание</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>логический финиш</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>подготовка к объяснению</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>подготовка к новому жесту</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>объяснение</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>логический финал</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>продолжение речи</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>концентрация</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>акцентирование внимания на факте</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>вспоминание</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>акцентирование внимания</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>формулирование мысли</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>акцентирование внимания в течение речи</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>объяснение</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>новая информация</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>фактическая информация, в которой говорящий уверен</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>апелляция к собеседнику</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>логический финал</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>формулирование мысли</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>экспрессия</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>акцентирование внимания</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>начало повествования</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>акцентирование внимания</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>конкретизация объекта речи</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>"о, вспомнил"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>продолжение повествования</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>окончание речевой фазы, сбор тела в кучу</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="text" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture-meaning" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
